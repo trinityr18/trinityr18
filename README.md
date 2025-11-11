@@ -10,7 +10,6 @@
 
 <h2>📜 Certifications</h2>
 
-- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/f94551cc-1c1d-46c3-a378-7f69683ba613/public_url)
 - [Oracle Certified Associate, Java SE 8 Programmer](https://www.credly.com/badges/8ba99943-ddb5-4737-a1a4-c6690a00f726/public_url)
 - [Python for Data Science and AI](https://www.credly.com/badges/0f84895c-1c5b-45b6-94e5-c5b777d2f25d/public_url)
 - [Databases and SQL for Data Science](https://www.credly.com/badges/cac8c629-28b4-4bba-bb15-59334e2a1d08/public_url)
